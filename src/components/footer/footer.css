@@ -1,0 +1,8 @@
+.footer-link {
+  color: black;
+}
+@media only screen and (min-width: 1366px) {
+  .footer-link {
+    color: white;
+  }
+}

@@ -1,0 +1,15 @@
+.content {
+  background-color: #429ae2;
+}
+
+@media only screen and (min-width: 1366px) {
+  .right-container {
+    max-width: 65%;
+    justify-content: center;
+  }
+
+  .left-container {
+    min-width: 30%;
+    max-width: 30%;
+  }
+}
